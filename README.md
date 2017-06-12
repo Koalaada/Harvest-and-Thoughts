@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# 学习记录
+> 万事开头难
 
-You can use the [editor on GitHub](https://github.com/Koalaada/Harvest-and-Thoughts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 1. 遭遇的困难
+* 技术小白，甚至于不会熟练翻墙
+* 做惯伸手党，寻找入门途径成为问题
+* 任务的设置比较模糊，难以确定自己是否完成任务
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2. 解决的途径
+* 从熟悉的工具入手，从不用翻墙的工具先找切入点
+* 在半撇有道儿公众号的往期推送寻找相关内容
+* 在半撇的学习记录里寻找有用内容，与公众号内容有重合
 
-### Markdown
+## 3. 还需解决的问题
+* 这些工具软件都是全新接触的，需要进一步熟悉其操作
+* markdown语法的记忆需进一步完善
+* trello和github的使用逻辑和用法功能需要在以后的使用过程进一步完善
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 4. 一些用得到的网页
+* [github入坑指南](http://chuansong.me/n/1556069744427)
+* [git commit 怎么写](http://www.banpie.info/how-to-write-git-commit-message)
+* [高效四合一的工作流](http://www.banpie.info/new-media-content-production-workflow)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Koalaada/Harvest-and-Thoughts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 5. 心得
+* 时间在学习的时候流逝得特别快
+* 不要畏惧未知
+* 找到一个切口以后进度就会变快很多
+* 求知是一个反复的过程
